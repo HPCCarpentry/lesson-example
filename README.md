@@ -2,13 +2,13 @@ lesson-example
 ==============
 
 This repository shows how to create a lesson using
-the [Software Carpentry lesson template][swc-lesson-template],
-and is itself an example of the use of that template.
+the [HPC Carpentry lesson template][hpcc-lesson-template],
+and is itself an example of the use of that template. The HPC Carpentry lesson template is entirely based on the Software Carpentry lesson template.
 
 1.  Do *not* fork this repository directly on GitHub.
     Instead, please follow the instructions below
     to create a repository for your lesson from
-    the [lesson template][swc-lesson-template].
+    the [lesson template][hpcc-lesson-template].
 
 2.  Once you have created the repository,
     please go through [the layout instructions](LAYOUT.md) to format your lesson.
@@ -170,7 +170,7 @@ We organize our lessons in a standard way so that:
 ## Why Is This Example and Documentation Separate from the Template?
 
 We want it to be easy for authors to merge changes
-made to the [lesson template][swc-lesson-template]
+made to the [lesson template][hpcc-lesson-template]
 into their lesson.
 If the lesson template contained all of the documentation in this example,
 then every time a merge was done,
@@ -235,9 +235,9 @@ Please see the following for more information on:
 
 If you find bugs in our instructions,
 or would like to suggest improvements,
-please [file an issue in this repository](https://github.com/swcarpentry/lesson-example/issues);
+please [file an issue in this repository](https://github.com/hpccarpentry/lesson-example/issues);
 if you find bugs in the template files themselves,
-please [file an issue in the `lesson-template` repository](https://github.com/swcarpentry/lesson-template/issues).
+please [file an issue in the `lesson-template` repository](https://github.com/hpccarpentry/lesson-template/issues).
 You can also [mail us](mailto:admin@software-carpentry.org) with questions or problems.
 
 Please also [mail us](mailto:admin@software-carpentry.org)
@@ -249,6 +249,6 @@ whenever you create a new lesson and would like to advertise it on our web site.
 *   Rémi Emonet (@twitwi)
 *   Raniere Silva (@r-gaia-cs)
 
-[swc-lesson-template]: https://github.com/swcarpentry/lesson-template
-[swc-lessons-page]: http://software-carpentry.org/lessons.html
-[import]: http://import.github.com/new?import_url=https://github.com/swcarpentry/lesson-template
+[hpcc-lesson-template]: https://github.com/hpccarpentry/lesson-template
+[hpcc-lessons-page]: http://software-carpentry.org/lessons.html
+[import]: http://import.github.com/new?import_url=https://github.com/hpccarpentry/lesson-template
